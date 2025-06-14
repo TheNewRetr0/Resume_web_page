@@ -1,8 +1,6 @@
-# RESUME WEB PAGE
+#RESUME WEB PAGE README (You aren't supposed to be reading this actually)
+I'm just trying to get employers to see my LinkedIn and think, ‘Damn, this guy seems like a solid IT guy—I should hire him.’
+I hope it's working… is it?
 
-Im just trying to get employers to see my profile in linkedin and think, damn, he seems like a good IT GUY, i should hire him....
-
-i hope it's working...is it?
-
-
-(Maybe making a web page resume to put in a web page that already has a resume pdf on it isn't the best idea, but then i also worked hard on my linkedin profile so everything on my resume is also visible on my public profile)
+(And yeah, maybe making a whole résumé website when I already have a PDF and a fully filled-out LinkedIn profile isn’t the most necessary move...
+But hey, I worked hard on all of them, so at least I’m consistent!)
