@@ -1,4 +1,5 @@
 #RESUME WEB PAGE README (You aren't supposed to be reading this actually)
+
 I'm just trying to get employers to see my LinkedIn and think, ‘Damn, this guy seems like a solid IT guy—I should hire him.’
 I hope it's working… is it?
 
